@@ -8,8 +8,9 @@
 #header nav.navbar {
 	min-height: 85px;
 	padding-left: 30px;
-    padding-right: 30px;
+        padding-right: 30px;
 	background: #ffffff;
+	box-shadow: 0 4px 8px -2px #e6e3e3;
 }
 
 #header nav.navbar .logo-navbar a.navbar-brand {
